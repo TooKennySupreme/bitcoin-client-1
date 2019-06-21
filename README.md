@@ -10,9 +10,7 @@ pip install bitcoin-client
 
 Init
 ```
-BITCOIN_CONF = {
-  'EXPLORER': ...,
-}
+BITCOIN_EXPLORER = ...
 bitcoin_client = BitcoinClient(BITCOIN_CONF)
 ```
 

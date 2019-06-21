@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bitcoin-client',
-    version='0.1.0',
+    version='0.1.1',
     description='bitcoin python client',
     long_description_markdown_filename='README.md',
     author='Dmitry Zhidkih',
