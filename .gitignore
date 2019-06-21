@@ -1,0 +1,10 @@
+.venv
+.idea
+*.pyc
+*~*
+/package/*.deb
+/package/build
+/*.egg-info
+/dist
+test*
+tmp*
