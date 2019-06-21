@@ -2,7 +2,7 @@ import requests
 from urllib.parse import urljoin
 
 
-class BlockBookApiClient:
+class BitcoinClient:
     def __init__(self, host):
         self.api_host = host
 
